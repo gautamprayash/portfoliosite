@@ -1,6 +1,6 @@
-# prayash
+# Sudhanshu Gautam | Full Stack Developer
 
-> Sudhanshu Gautam | Full Stack Developer
+> Portfolio Website | Build With Vuejs
 
 ## Build Setup
 
